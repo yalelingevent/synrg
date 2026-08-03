@@ -10,7 +10,7 @@ tags: [nominalization, syntax-semantics interface, distributed morphorlogy]
 
 handout_url:
 
-stataion: 
+station: 
 
 ---
 

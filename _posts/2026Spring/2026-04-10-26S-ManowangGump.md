@@ -13,7 +13,7 @@ handout_url: /assets/pdf/2026Spring/SynRG_2026Spring_ManowangGump.pdf
 
 
 
-stataion: 
+station: 
 
 ---
 

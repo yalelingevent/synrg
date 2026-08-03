@@ -10,7 +10,7 @@ tags: [movement, syntax-phonology interface]
 
 handout_url: /assets/pdf/2026Spring/SynRG_2026Spring_BrodkinDan.pdf
 
-stataion: 
+station: 
 
 ---
 

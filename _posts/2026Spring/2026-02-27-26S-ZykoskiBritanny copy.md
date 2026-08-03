@@ -10,7 +10,7 @@ tags: [head movement, micro-variation, movement]
 
 handout_url: 
 
-stataion: 
+station: 
 
 ---
 
