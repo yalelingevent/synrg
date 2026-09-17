@@ -150,6 +150,8 @@ pwa:
 
 paginate: 4
 
+future: true
+
 # The base URL of your site
 baseurl: "/synrg"
 
