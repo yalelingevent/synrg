@@ -10,7 +10,7 @@ handout_url: /assets/pdf/2024Spring/SynRG_2024Spring_HewettMatthew.pdf
 meeting_url: 
 
 categories: guest-talk
-tags: [passives, movement, linerization]
+tags: [passives, movement, linearization]
 
 station: 
 
