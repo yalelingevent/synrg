@@ -1,10 +1,11 @@
 {% assign duration = page.duration | default: 4500 %}
-<button id="ics-btn"
+<button id="ics-btn"  
     data-start="{{ page.date | date: '%Y%m%dT%H%M%S' }}"
     data-end="{{ page.date | date: '%s' | plus: duration | date: '%Y%m%dT%H%M%S' }}"
     data-title="{{ page.title }}"
     data-location="{{ site.data.locations[page.location].name | default: '' }}"
     data-meeting-url = "{{ page.meeting_url }}"
+    data-filename="synrg-{{ page.date | date: '%Y-%m-%d' }}"
     class="btn btn-sm btn-outline-secondary"
     target = "_blank"
 >
@@ -49,7 +50,7 @@ document.getElementById('ics-btn').addEventListener('click', function() {
   var url = URL.createObjectURL(blob);
   var a = document.createElement('a');
   a.href = url;
-  a.download = 'synrgevent.ics';
+  a.download = this.dataset.filename || 'synrgevent.ics';
   document.body.appendChild(a);
   a.click();
   setTimeout(function() {
