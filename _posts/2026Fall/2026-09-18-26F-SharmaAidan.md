@@ -6,7 +6,7 @@ duration: 4500
 location: 37hillhouse101
 
 categories: guest-talk
-tags: [(in)definiteness]
+tags: [(in)definiteness, agreement and concord]
 
 handout_url: /assets/pdf/2026Fall/SynRG_2026Fall_SharmaAidan.pdf
 ---
