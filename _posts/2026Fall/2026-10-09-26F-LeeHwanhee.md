@@ -6,7 +6,7 @@ duration: 4500
 location: 37hillhouse101
 
 categories: guest-talk
-tags: [control, subordination, case, argument structure]
+tags: [control, subordination, case, argument structure, restructuring]
 
 handout_url: /assets/pdf/2026Fall/SynRG_2026Fall_LeeHwanhee.pdf
 meeting_url: https://yale.zoom.us/j/99046947324
