@@ -2,6 +2,11 @@
 # 1. If an entity changes affiliation, it could potentially be captured by creating multiple entries, e.g. FamilyGiven0, FamilyGiven1. The information of an entity shown for a talk should be the one that took effect at the time of the talk, even when it is different from now.
 # 2. maybe emails should not be entered (for privacy and safety)
 
+AmissahAnthony0:
+  name: Anthony Amissah (UWM)
+  email:
+  url:
+
 AremuDaniel0:
   name: Daniel Aremu (Goethe)
   email:
@@ -226,6 +231,11 @@ Tamar-MattisSquid0:
   name: Squid Tamar-Mattis (Yale)
   email:
   url: https://campuspress.yale.edu/squidtm/
+
+TruongThomas0:
+  name: Thomas Truong (MIT)
+  email:
+  url:
 
 VasileiosMichos0:
   name: Michos Vasileios (Boston)
